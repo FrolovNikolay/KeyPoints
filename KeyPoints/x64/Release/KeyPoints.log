@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.cpp(44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  ScoreCalculator.cpp
+  Создание кода
+  750 of 753 functions (99.6%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  KeyPoints.vcxproj -> C:\Users\Nikolay\Documents\KeyPoints\x64\Release\KeyPoints.exe
+  KeyPoints.vcxproj -> C:\Users\Nikolay\Documents\KeyPoints\x64\Release\KeyPoints.pdb (Full PDB)

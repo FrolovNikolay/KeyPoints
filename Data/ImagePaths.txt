@@ -1,0 +1,12 @@
+C:\Users\Nikolay\Documents\KeyPoints\KeyPoints\Data\Images\01.tif
+C:\Users\Nikolay\Documents\KeyPoints\KeyPoints\Data\Images\02.tif
+C:\Users\Nikolay\Documents\KeyPoints\KeyPoints\Data\Images\03.tif
+C:\Users\Nikolay\Documents\KeyPoints\KeyPoints\Data\Images\04.tif
+C:\Users\Nikolay\Documents\KeyPoints\KeyPoints\Data\Images\05.tif
+C:\Users\Nikolay\Documents\KeyPoints\KeyPoints\Data\Images\06.tif
+C:\Users\Nikolay\Documents\KeyPoints\KeyPoints\Data\Images\07.tif
+C:\Users\Nikolay\Documents\KeyPoints\KeyPoints\Data\Images\08.tif
+C:\Users\Nikolay\Documents\KeyPoints\KeyPoints\Data\Images\09.tif
+C:\Users\Nikolay\Documents\KeyPoints\KeyPoints\Data\Images\10.tif
+C:\Users\Nikolay\Documents\KeyPoints\KeyPoints\Data\Images\11.tif
+C:\Users\Nikolay\Documents\KeyPoints\KeyPoints\Data\Images\12.tif

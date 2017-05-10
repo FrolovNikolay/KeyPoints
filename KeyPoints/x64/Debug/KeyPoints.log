@@ -1,0 +1,6 @@
+﻿  ScoreCalculator.cpp
+  main.cpp
+c:\users\nikolay\documents\keypoints\keypoints\main.cpp(44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  KeyPoints.vcxproj -> C:\Users\Nikolay\Documents\KeyPoints\x64\Debug\KeyPoints.exe
+  KeyPoints.vcxproj -> C:\Users\Nikolay\Documents\KeyPoints\x64\Debug\KeyPoints.pdb (Partial PDB)
